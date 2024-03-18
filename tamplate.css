@@ -1,0 +1,244 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* NAVBAR  */
+#navbar {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navbar img {
+    height: 30px;
+    width: 30px;
+    margin-right: 30px;
+}
+
+#navbar h1 {
+    margin-left: 30px;
+    font-weight: 800;
+}
+
+
+/* FIRST PORTION */
+#first-portion {
+    height: 700px;
+    display: flex;
+}
+
+#text-first-portion h1 {
+    margin-left: 80px;
+    margin-top: 70px;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(48, 48, 48);
+}
+
+#text-first-portion p {
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+#para1 {
+    margin-left: 80px;
+}
+
+#para1 span {
+    color: aqua;
+}
+
+#text-first-portion button {
+    background-color: black;
+    color: white;
+    height: 60px;
+    border-radius: 40px;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 25px;
+    width: 230px;
+}
+
+#pic1 img {
+    margin-left: 18%;
+    height: 100%;
+}
+
+
+/* second portion */
+#second-portion {
+    height: 400px;
+    background-color: antiquewhite;
+    display: flex;
+}
+
+#box1 {
+    background-color: rgb(0, 0, 0);
+    height: 450px;
+    width: 33.55%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#box1 h1 {
+    margin-top: 170px;
+}
+
+#box2 {
+    background-color: rgb(4, 185, 185);
+    height: 450px;
+    width: 33.45%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#box2 h1 {
+    margin-top: 170px;
+}
+
+#box3 {
+    background-color: rgb(1, 132, 132);
+    height: 450px;
+    width: 33%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#box3 h1 {
+    margin-top: 170px;
+}
+
+
+/* third potion */
+
+#third-potion {
+    height: 600px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pic2 {
+    margin-left: px;
+    width: 8%;
+    height: 18%;
+    margin-top: 130px;
+}
+
+#third-potion button {
+    height: 50PX;
+    margin-top: 40PX;
+    width: 200PX;
+}
+
+
+/* FOURTH PORTION */
+#fourth-portion {
+    height: 622px;
+    background-color: rgb(4, 185, 185);
+    display: flex;
+    justify-content: space-between;
+}
+
+#fourth-portion div {
+    margin-top: 150px;
+    font-size: 20px;
+    color: white;
+    margin-right: 150px;
+    font-weight: 800;
+}
+
+#button2 {
+    background-color: white;
+    color: rgb(4, 185, 185);
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 50px;
+    border-color: white;
+}
+
+
+/* fifth portion  */
+
+#fifth-portion {
+    height: 1050px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#fifth-portion img {
+    width: 70%;
+}
+
+#fifth-portion button {
+    margin-top: 60px;
+    width: 180px;
+    height: 50px;
+    border-color: rgb(4, 185, 185);
+    font-size: 20px;
+}
+
+
+
+/* sixth portion */
+
+#sixth-portion {
+    height: 700px;
+    background-color: rgb(231, 230, 230);
+    display: flex;
+    justify-content: space-between
+}
+
+#text2 {
+    margin-left: 80px;
+    margin-top: 160px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+#sixth-portion img {
+    width: 54%;
+}
+
+#sixth-portion button {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(8, 199, 199);
+    margin-top: 60px;
+    border-radius: 20px;
+    font-size: 18px;
+    border-color: rgb(8, 199, 199);
+    color: white;
+}
+
+
+/* seven portion */
+#seven-portion {
+    height: 220px;
+    background-color: rgb(8, 199, 199);
+    display: flex;
+}
+
+#text3 { margin-left: 340px; margin-top: 60px; font-size: 18px; color: white;}
+
+#seven-portion button {
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-color: rgb(8, 199, 199);
+    margin-top: 90px;
+    margin-left: 80px;
+    color: rgb(8, 199, 199);
+}
+/* last portion */
+#last-portion { height: 600px; color: rgb(0, 0, 0);  text-align: center; font-size: 20px; }
+#last-portion button { margin-top: 350px; width: 130px; height: 40px; background-color: black; color: white; font-size: 15px; }
